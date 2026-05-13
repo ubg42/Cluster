@@ -12,7 +12,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>google.com</title>
     <link href="https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/TemplateData/style.css" rel="stylesheet">
-  <script src=https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/"TemplateData/UnityProgress.js" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/TemplateData/UnityProgress.js" type="text/javascript"></script>
   </head>
   <body class="template">
     <div class="template-wrap clear">
@@ -25,10 +25,10 @@
     compatibilitycheck: null,
     backgroundColor: "#222C36",
     splashStyle: "Dark",
-    dataUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/Release/NG.data",
+    dataUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/google.com@f82abfe/Release/NG.data",
     codeUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/Release/NG.js",
     asmUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/Release/NG.asm.js",
-    memUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/Release/NG.mem",
+    memUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/google.com@f82abfe/Release/NG.mem",
   };
     </script>
     <script src="https://cdn.jsdelivr.net/gh/classrooms-1/google.com@main/Release/UnityLoader.js"></script>
